@@ -1,9 +1,10 @@
 # settingSync
 
 ```
-GitHub Token: e95f067f89b05d6dc778461541a92fb73a0ddf87
-```  
-GitHub Gist: f12deb25a0caffaea0e7bd3336b12004
+GitHub Token: 0551aab73a219f6c695b0ba4d0f2fc3b8982b1c6 
+```    
+```
+GitHub Gist: 2c1074016b1186fdd470eb9700b06c15
 ```
 
 
